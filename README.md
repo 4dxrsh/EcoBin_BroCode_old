@@ -13,8 +13,8 @@ EcoBin is a comprehensive full-stack web application designed to transform waste
 ## Prerequisites
 
 1. **Node.js** (v18 or higher) - [Download](https://nodejs.org/)
-2. **MySQL** (optional) - [Download](https://dev.mysql.com/downloads/)
-3. **Git** (optional) - [Download](https://git-scm.com/)
+2. **MySQL** - [Download](https://dev.mysql.com/downloads/)
+3. **Git** - [Download](https://git-scm.com/)
 
 ## 🚀 Quick Start
 
